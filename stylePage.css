@@ -3,7 +3,7 @@
     background-color: skyblue
 }
 
-heref:nth-child(even) {
+href:nth-child(even) {
     color:blueviolet
 }
 
@@ -70,4 +70,3 @@ th, td {
 form {
     color: rgb(21, 94, 21);
 }
-
